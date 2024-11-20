@@ -1,6 +1,6 @@
 package com.faustech.gpu;
 
-import com.faustech.comum.RenderDataDto;
+import com.faustech.dto.RenderDataDto;
 import com.faustech.memory.FrameBuffer;
 import java.nio.FloatBuffer;
 import lombok.extern.java.Log;

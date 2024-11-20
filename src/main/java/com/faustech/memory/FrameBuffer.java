@@ -1,6 +1,6 @@
 package com.faustech.memory;
 
-import com.faustech.comum.RenderDataDto;
+import com.faustech.dto.RenderDataDto;
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 import java.nio.FloatBuffer;

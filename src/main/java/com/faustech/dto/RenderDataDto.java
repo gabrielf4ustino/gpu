@@ -1,4 +1,4 @@
-package com.faustech.comum;
+package com.faustech.dto;
 
 import lombok.Builder;
 
